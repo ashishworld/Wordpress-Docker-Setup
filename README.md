@@ -1,8 +1,8 @@
 # WordPress Docker Development Environment
 
-A complete Docker-based WordPress development environment designed for service-based agencies. Supports both local development and deployment to VPS servers or shared hosting environments.
+A complete Docker-based WordPress development environment designed for Kwebmaker WP Developers. Supports both local development and deployment to VPS servers or shared hosting environments.
 
-## 🎯 Perfect For Service Agencies
+## 🎯 Perfect For Wordpress Dev Team
 
 This setup is specifically designed for agencies that:
 - Develop WordPress sites locally
