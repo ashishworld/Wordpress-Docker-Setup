@@ -1,18 +1,18 @@
 # Environment files
-.env
+#.env
 
 # WordPress configuration (generated)
-wordpress/wp-config.php
+#wordpress/wp-config.php
 
 # WordPress uploads and cache
-wordpress/wp-content/uploads/
-wordpress/wp-content/cache/
-wordpress/wp-content/backup*/
-wordpress/wp-content/updraft/
+#wordpress/wp-content/uploads/
+#wordpress/wp-content/cache/
+#wordpress/wp-content/backup*/
+#wordpress/wp-content/updraft/
 
 # Backups and exports
-backups/
-exports/
+#backups/
+#exports/
 
 # Logs
 *.log

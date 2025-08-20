@@ -1,0 +1,46 @@
+# Environment files
+.env
+
+# WordPress configuration (generated)
+wordpress/wp-config.php
+
+# WordPress uploads and cache
+wordpress/wp-content/uploads/
+wordpress/wp-content/cache/
+wordpress/wp-content/backup*/
+wordpress/wp-content/updraft/
+
+# Backups and exports
+backups/
+exports/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+exclude-files.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if using build tools)
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
